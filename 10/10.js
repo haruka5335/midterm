@@ -1,2 +1,3 @@
-function calc(){
+function calc(sales){
+    
 }
